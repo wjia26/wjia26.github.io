@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me 
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a Product Data Analyst @ Carsales.com.au in their Data Science & Analytics Team. My experience has generally been around creating tools to collate data from various sources and creating actionable insights to drive a certain business metric. However, as an Engineering Major I can't help but appreciate good design and I do get the itch to build things.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+In my spare time I enjoy reading autobiographies, playing sport and talking nonsense. I'm also abit of a classical music elitist.
