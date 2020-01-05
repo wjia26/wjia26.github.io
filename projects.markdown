@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: home_project
 title: Projects
 permalink: /projects/
 ---
 
-[Resume]({{ site.url }}/assets/CV.pdf) 
