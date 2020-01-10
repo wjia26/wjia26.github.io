@@ -4,8 +4,8 @@ title:  "Spotify API Analysis"
 date:   2020-01-04 15:32:14 +1100
 categories: Spotify API Tableau
 ---
-Link to (Github repo)[https://github.com/wjia26/SpotifyAPIAnalysis]
-Link to (Tableau Dashboard)[https://public.tableau.com/profile/william8331#!/vizhome/SpotifyMyTracks/TopTracks]
+Link to [Github repo](https://github.com/wjia26/SpotifyAPIAnalysis)
+Link to [Tableau Dashboard](https://public.tableau.com/profile/william8331#!/vizhome/SpotifyMyTracks/TopTracks)
 
 ## Preface:
 I'd been seeing alot of awesome apps being built using the Spotify API so I decided to give it a go for myself. As an avid Spotify user, I was really curious to better understand my own listening behaviour - because as they say, music is a reflection of self.
@@ -21,7 +21,7 @@ For this specific part of the project I simply just wanted to visualize some of 
 4. Write up a funky analysis piece.
 
 ## Analysis:
-### Taking a look at the (Tracks Analysis Dashboard)[https://public.tableau.com/profile/william8331#!/vizhome/SpotifyMyTracks/TopTracks]
+### Taking a look at the [Tracks Analysis Dashboard](https://public.tableau.com/profile/william8331#!/vizhome/SpotifyMyTracks/TopTracks)
 It seems like my Genre's are sort of all over the shop. The main suspects are Classical,Rap,hip-hop and k-pop. It really surprises me that there are so many k-pop tracks in my Long Term favourites. I guess alot of the tracks are pretty addictive to listen to over and over again. 
 
 The Average Track Popularity score of 42.2 makes sense because I'm not really a mainstream music ~pleb~ listener. For reference most of Kanye's stuff hovers around 85 Popularity.
@@ -30,7 +30,7 @@ I've also seen some pretty interesting stuff around my Classical Genre listening
 
 The most popular Key Signature seems to be G. Which makes sense, because most pop songs use this listener friendly key signature.
 
-### Taking a look at the (Comparison Analysis Dashboard)[https://public.tableau.com/profile/william8331#!/vizhome/SpotifyMyTracks/TopTracksDiffAnalysis]
+### Taking a look at the [Comparison Analysis Dashboard](https://public.tableau.com/profile/william8331#!/vizhome/SpotifyMyTracks/TopTracksDiffAnalysis)
 In this dashboard I decided to see how my listening habits change as the time range get's larger. I use the Short Term Time Range as a base. 
 
 You can definitely see I've been listening to much more classical nowadays. 
