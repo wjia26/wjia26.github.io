@@ -10,6 +10,8 @@ permalink: /resume/
 |
 <i class="fa fa-github"></i> <a href="http://github.com/wjia26" target="_blank">Github</a>
 |
+<i class="fa fa-github"></i> <a href="https://public.tableau.com/profile/william8331#!" target="_blank">Tableau</a>
+|
 <i class="fa fa-github"></i> <a href="https://www.linkedin.com/in/iamwilliamj/" target="_blank">Linkedin</a>
 |
 <i class="fa fa-github"></i> <a href="https://iamwilliamj.com" target="_blank">Website</a>
