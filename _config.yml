@@ -34,6 +34,7 @@ disqus:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 sass:
   sass_dir: _sass
   compressed: true
