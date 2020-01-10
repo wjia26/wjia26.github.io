@@ -4,8 +4,11 @@ title:  "Spotify API Analysis"
 date:   2020-01-04 15:32:14 +1100
 categories: Spotify API Tableau
 ---
-Link to [Github repo](https://github.com/wjia26/SpotifyAPIAnalysis)
-Link to [Tableau Dashboard](https://public.tableau.com/profile/william8331#!/vizhome/SpotifyMyTracks/TopTracks)
+{% include image.html url="/assets/projects/SpotifyAPIAnalysis/Snapshot.JPG" description="Tableau is actually pretty sweet for viz's" %}
+
+
+[Github repo](https://github.com/wjia26/SpotifyAPIAnalysis)|
+[Tableau Dashboard](https://public.tableau.com/profile/william8331#!/vizhome/SpotifyMyTracks/TopTracks)
 
 ## Preface:
 I'd been seeing alot of awesome apps being built using the Spotify API so I decided to give it a go for myself. As an avid Spotify user, I was really curious to better understand my own listening behaviour - because as they say, music is a reflection of self.
