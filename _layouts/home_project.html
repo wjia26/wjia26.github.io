@@ -21,7 +21,7 @@ layout: default
           </a>
         </h3>
         <a href="{{ project.url | relative_url }}">
-          <img src="/assets/projects/SpotifyAPIAnalysis/Snapshot.JPG" width="200">
+          <img src="{{ '/assets/projects/' | append: project.shortname | append: '/displayimg.JPG'}}" width="200">
         </a>
 
         {%- if site.show_excerpts -%}

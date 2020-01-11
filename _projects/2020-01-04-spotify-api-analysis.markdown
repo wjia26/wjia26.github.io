@@ -1,10 +1,11 @@
 ---
 layout: project
 title:  "Spotify API Analysis"
-date:   2020-01-04 15:32:14 +1100
+shortname: "SpotifyAPIAnalysis"
+date:   2020-01-03 15:32:14 +1100
 categories: Spotify API Tableau
 ---
-{% include image.html url="/assets/projects/SpotifyAPIAnalysis/Snapshot.JPG" description="Tableau is actually pretty sweet for viz's" %}
+{% include image.html url="/assets/projects/SpotifyAPIAnalysis/displayimg.JPG" description="Tableau is actually pretty sweet for viz's" %}
 
 
 [Github repo](https://github.com/wjia26/SpotifyAPIAnalysis)|
