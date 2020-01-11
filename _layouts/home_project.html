@@ -20,6 +20,10 @@ layout: default
             {{ project.title | escape }}
           </a>
         </h3>
+        <a href="{{ project.url | relative_url }}">
+          <img src="/assets/projects/SpotifyAPIAnalysis/Snapshot.JPG" width="200">
+        </a>
+
         {%- if site.show_excerpts -%}
           {{ project.excerpt }}
         {%- endif -%}

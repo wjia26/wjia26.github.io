@@ -13,7 +13,7 @@ categories: Spotify API Tableau
 ## Preface:
 I'd been seeing alot of awesome apps being built using the Spotify API so I decided to give it a go for myself. As an avid Spotify user, I was really curious to better understand my own listening behaviour - because as they say, music is a reflection of self.
 
-Fortunately, the Spotify API is super simple to use and has a pre-existing python wrapper called spotipy which you can easily install via pip. The wrapper handles all the boilerplate code for authentication and calling the RESTful API.
+Fortunately, the Spotify API is super simple to use and has a pre-existing python wrapper called [spotipy](https://spotipy.readthedocs.io/) which you can easily install via pip. The wrapper handles all the boilerplate code for authentication and calling the RESTful API.
 
 For this specific part of the project I simply just wanted to visualize some of my top tracks through tableau and get some data points around the features which make up these tracks. Spotify does a wonderful job of labelling each track with such features like: Valence, Tempo, Loudness, Major/Minor, Energy and etc. Check out the [docs](https://developer.spotify.com/documentation/web-api/reference/tracks/get-several-audio-features/) for more information.
 
@@ -25,18 +25,40 @@ For this specific part of the project I simply just wanted to visualize some of 
 
 ## Analysis:
 ### Taking a look at the [Tracks Analysis Dashboard](https://public.tableau.com/profile/william8331#!/vizhome/SpotifyMyTracks/TopTracks)
-It seems like my Genre's are sort of all over the shop. The main suspects are Classical,Rap,hip-hop and k-pop. It really surprises me that there are so many k-pop tracks in my Long Term favourites. I guess alot of the tracks are pretty addictive to listen to over and over again. 
+This Dashboard is fully interactive and contextual filters can be applied by clicking on each different dimensions on each graph. For Example if you want to see what the Features are for all my top Rap Tracks are you can click on the rap segment in the Top Genre Viz. This will apply a filter to the rest of the components on this dashboard.
 
-The Average Track Popularity score of 42.2 makes sense because I'm not really a mainstream music ~pleb~ listener. For reference most of Kanye's stuff hovers around 85 Popularity.
+It seems like my Genre's are sort of all over the shop. The main suspects are Classical,Rap,hip-hop and k-pop. It really surprises me that there are so many K-pop tracks in my Long Term favourites. Damn BTS and their catchy tracks...
 
-I've also seen some pretty interesting stuff around my Classical Genre listening habits. Valence scores seem to be pretty low. It seems that I really like depressing russian music and concertos played in the minor key. I also feel like Spotify too accurate when it comes to classical music. For example: Shouldn't the Average Acousticness basically be near 1? And there are some classical tracks do have pretty high energy but still get classified as low energy. Again Spotify's definition of certain features are quite broad.
+The Average Track Popularity score of 42.2 makes sense because I'm not really a mainstream music ~~pleb~~ listener. For reference, most of Kanye's stuff hovers around the 85 Popularity mark.
 
-The most popular Key Signature seems to be G. Which makes sense, because most pop songs use this listener friendly key signature.
+I've also seen some pretty interesting stuff around my Classical Genre listening habits. Valence (which is Spotify's score for whether a track has sad/angry/depressed or happy/lively qualities) scores seem to be pretty low. It seems that I really like depressing Russian Classical music and concertos played in the minor key.
+
+I also feel like Spotify isn't too accurate when it comes to classical music. For example: There are some tracks which I know have pretty high energy but still get classified as low energy. Most of the Paganini concertos are pretty lit but according to Spotify are lethargic and have the same energy as some of the chill-hop music I listen to in the background whilst I work. I think they probably need to step up their game in the Classical Music classification department.
+
+I mean just look at this dude shred one of my faves: The Tartini Sonata by Paganini (According to Spotify it has a **0.23** Energy score...)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/orWePX13N3M?start=661" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Let's deep-dive on the numbers:
+{% include image.html url="/assets/projects/SpotifyAPIAnalysis/PaganiniIsLowEnergy.JPG" description="Surely Violin is an instrument..." %}
+
+Sometimes however, Spotify gets it pretty spot on. Like for example I listen to this Artist called [Nitro-Fun](https://www.youtube.com/watch?v=mdaCDsN1FJ0) (sort of like 8-bit/Electronic music) and Spotify has classified his tracks to have the highest energy amongst all my top tracks - which I had a sneaking suspicion would be the case. 
+
+The most popular Key Signature seems to be G. Which makes sense, because most songs use this listener friendly key signature.
 
 ### Taking a look at the [Comparison Analysis Dashboard](https://public.tableau.com/profile/william8331#!/vizhome/SpotifyMyTracks/TopTracksDiffAnalysis)
-In this dashboard I decided to see how my listening habits change as the time range get's larger. I use the Short Term Time Range as a base. 
+In this dashboard I decided to see how my listening habits change as the time range get's larger. I use the Short Term Time Range as a base and calculate the relative difference from that and the Medium/Long Time Range Statistics. For example, in the Top Genres Difference Viz: Medium Term shows -15 in Classical. This means that relative to the Short Term Count, my Medium Term Top Tracks contained 15 less Classical Tracks than my Short Term Top Tracks.
 
-You can definitely see I've been listening to much more classical nowadays. 
+This makes it much easier to see delta's between time ranges - as opposed to flicking through the filters in the first dashboard and trying to remember the values each time. 
+
+You can definitely see I've been listening to more classical music in the short term and my affinity for all things Hallyu-Wave has sort of died down. This has had an increasing affect on the overall Acousticness/Instrumentalness and a decreasing effect on the Tempo of the music I listen to.
+
+Coincidentally I actually have been feeling alot more mellow in these past few weeks and my abilty to concentrate on tasks that matter has improved a tad. Perhaps it's all the Mendellsohn I've been listening to. 
+
+## Moving Forward 
+It would be interesting to see the how these feature-metrics for my top tracks change over time. This would probably involve writing up some sort of scheduled job every couple of days to see how my behaviour changes. Using AWS Lambda + S3 could be a cheap way to go about doing this. 
+
+In addition, I could probably do some cluster analysis and map out each track on a 2D-plane and see how it plays out over time. 
+
 
 <!-- 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
