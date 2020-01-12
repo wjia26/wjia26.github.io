@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "My Top Reads 2019"
+date:   2020-01-12 15:32:14 +1100
+categories: Reflections
+---
+
+It's a Sunday afternoon and what better way to spend it than by writing about my favourite books. The brain is dead so I probably won't be trying to do any technical work today, so I'll give myself a break.
+
+I wouldn't really consider myself to be much of a bookworm but I do have an affinity towards autobiography's or any book which delves deep into the human condition - all the complicated and irrational stuff that make humans, human. Here are my Top 3 books that I've personally read last year which have got me thinking and questioning some of my own preconcieved notions of life.
+
+## 1. __Sapiens__ by Yuval Noah Harari
+{% include image.html url="/assets/posts/TopBooks/sapiens.jpg" description="Does 99.95 mean you win life?" width="300" %}
+I gotta hand the top spot to this book. Seriously one of the best reads I've ever come across. Yuval Harari is a brilliant philosopher/historian who brings you on a journey throughout the history of humankind. It is written concisely and uses very easy to understand language making it accessible to almost all ages and/or reading comprehension levels. The book does a great job in helping you understand the intricacies of why humans act the way they do and how it has changed over time. It also explores some pretty controversial topics around race,culture and political systems with arguments from many angles being considered. The book never tries to swing you in a certain direction or paint one particular side as good or bad. It merely tries to present you with the facts and reasoning. The main goal being that you understand that there are always reasons for certain behaviours - it is the perspective/own experiences at which you approach it from that will shape your biases. If anything, reading this book on the metro will 100% make you feel intellectual as you gaze amongst all the other passengers with their eyes fixated on their smartphones. *"If only these simpletons could understand the wisdom I'm gaining"* - will be the monologue running through your head. Purely because of the intellectual flex-factor, I give this book the top spot. 
+
+## 2. __Kitchen Confidential__ by Anthony Bourdain
+{% include image.html url="/assets/posts/TopBooks/bourdain.jpg" description="Does 99.95 mean you win life?" width="300" %}
+I don't even think I've finished this one...yet. I'm probably three-quarters of the way there - but thus far it has been a fantastic journey. Again, it is an easy to read book, and Bourdain is such a natural writer and storyteller. He writes with a certain bravado and is devillishly hilarious - you can definitely tell all those years being a line-cook and hanging around the do or die crowd of testerone fuelled cooks have shaped the way he tells stories. And boy does Bourdain have stories to tell! He sure has lived the wild life in his earlier years. This is as close to a culinary thriller as you'll ever get - it's like Pulp Fiction but with chefs. The edition I have has retrospective notes written by Bourdain himself, years after he published the book. It's interesting to see him even contradict himself at times, showing you that people change and grow over time - even after all the events in his life have long past. Sad to have heard his passing recently - this book will be one of his many legacies that people can relish for years to come.
+
+## 3. __Permanent Record__ by Edward Snowden
+{% include image.html url="/assets/posts/TopBooks/snowden.jpg" description="Does 99.95 mean you win life?" width="300" %}
+This is a must read for anyone in the tech industry. If y'all dont know who Edward Snowden is...that's fine. I didn't know too much about him either - 'till I stumbled across his [interview with Joe Rogan](https://www.youtube.com/watch?v=efs3QRr8LWw). Joe Rogan doesn't really say much here, but Snowden gives some very indepth explanations to how the NSA and USA intelligence agencies work together to attain information about people. That interview peaked my interest and I ended up listening to the Audible version of this book. Again, this is another book that will make you feel intellectual whilst you're on the train. Snowden walks you through his life and all the actions that lead up to him leaking some juicy information about the US government. Snowden comes is a technology enthusiast who has worked in cybersecurity and software, so he gives very sound explanations of the systems which enable companies to track and monitor the citizens of the world. It really shows you the gravity of the international surveillance being conducted and how quickly the internet has transformed to enable it. If Bourdains book is all soul, emotion and swashbuckling adventure, this book is more analytical, logical and computer hacker-y vibes.
+
+So yeah, three books I highly recommend anyone reading. All easy to read and written in a no frills, no bullshit fashion. Each giving commentary of the human condition in three different flavours. It's interesting to contrast the styles of how each story just by getting to know the author. Bourdain's book is largely revolves around relationships, Snowden's focuses on systems and processes and Yuval's is a mix of both but with commentary from a more macro, impersonal lens.  
+
+
+<!-- [Read more...](https://medium.com/@iamwilliamj/the-false-positives-of-high-grades-da29fcb5b1f8) -->
+
