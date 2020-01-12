@@ -42,9 +42,7 @@ I mean just look at this dude shred one of my faves: The Tartini Sonata by Pagan
 Let's deep-dive on the numbers:
 {% include image.html url="/assets/projects/SpotifyAPIAnalysis/PaganiniIsLowEnergy.JPG" description="Surely Violin is an instrument..." %}
 
-Sometimes however, Spotify gets it pretty spot on. Like for example I listen to this Artist called [Nitro-Fun](https://www.youtube.com/watch?v=mdaCDsN1FJ0) (sort of like 8-bit/Electronic music) and Spotify has classified his tracks to have the highest energy amongst all my top tracks - which I had a sneaking suspicion would be the case. 
-
-The most popular Key Signature seems to be G. Which makes sense, because most songs use this listener friendly key signature.
+Sometimes however, Spotify gets it pretty spot on. Like for example I listen to this Artist called [Nitro-Fun](https://www.youtube.com/watch?v=mdaCDsN1FJ0) (sort of like 8-bit/Electronic music) whose tracks are like an audio representation of ADHD. Spotify has correctly classified his tracks to have the highest energy amongst all my top tracks - which I whortheartedly agree with.
 
 ### Taking a look at the [Comparison Analysis Dashboard](https://public.tableau.com/profile/william8331#!/vizhome/SpotifyMyTracks/TopTracksDiffAnalysis)
 In this dashboard I decided to see how my listening habits change as the time range get's larger. I use the Short Term Time Range as a base and calculate the relative difference from that and the Medium/Long Time Range Statistics. For example, in the Top Genres Difference Viz: Medium Term shows -15 in Classical. This means that relative to the Short Term Count, my Medium Term Top Tracks contained 15 less Classical Tracks than my Short Term Top Tracks.
