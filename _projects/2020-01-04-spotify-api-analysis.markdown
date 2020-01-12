@@ -5,8 +5,8 @@ shortname: "SpotifyAPIAnalysis"
 date:   2020-01-03 15:32:14 +1100
 categories: Spotify API Tableau
 ---
-{% include image.html url="/assets/projects/SpotifyAPIAnalysis/displayimg.JPG" description="Tableau is actually pretty sweet for viz's" %}
 
+{% include image.html url="/assets/projects/SpotifyAPIAnalysis/displayimg.JPG" description="Tableau is actually pretty sweet for viz's" width=700 %}
 
 [Github repo](https://github.com/wjia26/SpotifyAPIAnalysis)|
 [Tableau Dashboard](https://public.tableau.com/profile/william8331#!/vizhome/SpotifyMyTracks/TopTracks)
@@ -36,11 +36,11 @@ I've also seen some pretty interesting stuff around my Classical Genre listening
 
 I also feel like Spotify isn't too accurate when it comes to classical music. For example: There are some tracks which I know have pretty high energy but still get classified as low energy. Most of the Paganini concertos are pretty lit but according to Spotify are lethargic and have the same energy as some of the chill-hop music I listen to in the background whilst I work. I think they probably need to step up their game in the Classical Music classification department.
 
-I mean just look at this dude shred one of my faves: The Tartini Sonata by Paganini (According to Spotify it has a **0.23** Energy score...)
+I mean just look at Ray Chen shred one of my faves: The Tartini Sonata by Paganini (According to Spotify it has a **0.23** Energy score...)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/orWePX13N3M?start=661" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Let's deep-dive on the numbers:
-{% include image.html url="/assets/projects/SpotifyAPIAnalysis/PaganiniIsLowEnergy.JPG" description="Surely Violin is an instrument..." %}
+Let's deep-dive on how Spotify analyzes this particular track:
+{% include image.html url="/assets/projects/SpotifyAPIAnalysis/PaganiniIsLowEnergy.JPG" description="Surely Violin is an instrument..." width=600 %}
 
 Sometimes however, Spotify gets it pretty spot on. Like for example I listen to this Artist called [Nitro-Fun](https://www.youtube.com/watch?v=mdaCDsN1FJ0) (sort of like 8-bit/Electronic music) whose tracks are like an audio representation of ADHD. Spotify has correctly classified his tracks to have the highest energy amongst all my top tracks - which I whortheartedly agree with.
 
@@ -51,7 +51,7 @@ This makes it much easier to see delta's between time ranges - as opposed to fli
 
 You can definitely see I've been listening to more classical music in the short term and my affinity for all things Hallyu-Wave has sort of died down. This has had an increasing affect on the overall Acousticness/Instrumentalness and a decreasing effect on the Tempo of the music I listen to.
 
-Coincidentally I actually have been feeling alot more mellow in these past few weeks and my abilty to concentrate on tasks that matter has improved a tad. Perhaps it's all the Mendellsohn I've been listening to. 
+Coincidentally I actually have been feeling alot more mellow in these past few weeks and my ability to concentrate on tasks that matter has improved a tad. Perhaps it's all the Mendellsohn I've been listening to. 
 
 ## Moving Forward 
 It would be interesting to see the how these feature-metrics for my top tracks change over time. This would probably involve writing up some sort of scheduled job every couple of days to see how my behaviour changes. Using AWS Lambda + S3 could be a cheap way to go about doing this. 

@@ -23,7 +23,7 @@ permalink: /resume/
 ## Experience
 
 `July 2019 - now`
-__Product Data Analyst, [carsales.com.au](https://www.carsales.com.au)__ Involved in all stages of the Product Analytics Development cycle. From designing Key Metrics with Product Team, communicating business reporting requirements with Developers and sitting in with QA team. Provide insights to Product/Leadership Team about a range of products ([MyFeed](https://www.adnews.com.au/news/carsales-adds-story-feature-to-app-for-advertisers) being a noteable feature). Facilitate AB testing of feature releases using Optimizely and Google Analytics.
+__Product Data Analyst, [carsales.com.au](https://www.carsales.com.au)__ Involved in all stages of the Product Analytics Development cycle. From designing Objective Key Metrics with Product Team, communicating business reporting requirements with Developers and sitting in with QA team. Provide insights to Product/Leadership Team about a range of products ([MyFeed](https://www.adnews.com.au/news/carsales-adds-story-feature-to-app-for-advertisers) being a noteable feature). Facilitate AB testing of feature releases using Optimizely and Google Analytics.
 
 `July 2018 - July 2019`
 __Analyst, [Deloitte](https://www2.deloitte.com/global/en/pages/strategy-operations/solutions/analytics-and-cognitive.html)__ · Analytics and Cognitive Business Unit. Developed ETL ingestion patterns to support an Energy Trading client. Use of Oracle ETL Stack. Developed Generic Procedures in PL/SQL for Data ingestion used across the platform. Built Financial Tableau reports to aid Trading and Risk Departments. Created R Models to calculate forward prices for commodities trading.
