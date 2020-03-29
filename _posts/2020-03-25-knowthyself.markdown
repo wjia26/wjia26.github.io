@@ -21,7 +21,7 @@ Probably one of the most important things you can ask yourself. Everything that 
 
 In the end, it's about alignment.
 
-For me personally, it is one of the driving factors but probably not the biggest one. I generally prioritize becoming really skilled at a particular area and being respected for it and also having like-minded people around me who understand my dumb humour. But still...not going to deny that money is part of the equation when deciding a future career in something. Else, I'd be a blacksmith or something, making swords or playing video-games all day. 
+For me personally, money is one of the driving factors but not the biggest one. I generally prioritize becoming really skilled at a particular area and being respected for it and also having like-minded people around me who understand my dumb humour. But still...not going to deny that money is part of the equation when deciding a future career in something. Else, I'd be a blacksmith or something, making swords or playing video-games all day. 
 
 ## Knowing your strengths and limitations
 Only way to know this is by actually trying a whole bunch of stuff out and see if you have an aptitude for something. Once you've got the lay of the land you need to identify areas that you are good and are not good at. Again, the tough part about this is being honest. I had the toughest time doing this as a kid I think. And it was only around a year ago that I had finally tried to be true to my capabilities and who I am. For the longest time I had always overestimated my intelligence and underestimated my people skills. It took me years to figure out that I actually wasn't the genius I thought I was and I wasn't the biggest social dumbass I had envisioned in my head. 
