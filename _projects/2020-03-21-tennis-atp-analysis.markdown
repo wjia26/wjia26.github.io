@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Aggressive Playing Styles in the ATP Tour"
+title:  "ATP Tour Visualized - Aggressive Playing Styles"
 shortname: "TennisAggressionATP"
 date:   2020-03-01 15:32:14 +1100
 categories: TennisTableau
