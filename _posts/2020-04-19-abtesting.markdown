@@ -10,7 +10,7 @@ categories: Reflections
 Just wanted to share some of my experiences doing AB Testing and optimizations in the app space.
 My current company has for the best part of a year or so, has adopted an AB testing framework with Optimizely being at the tool of choice. 
 It's been cool to see the experimentation mindset grow and be able to finally quantify how changes can impact the services we provide to our customers. 
-I have a few learnings that might be useful to people conducting tests - espeically those in the early stages of putting together an experimentation plan.
+I have a few learnings that might be useful to people conducting tests - especially those in the early stages of putting together an experimentation plan.
 
 ## 1. Understand the product you'll be testing - thoroughly
 Ensure that Product gives you what the changes will be and how they think it will improve the product. You will need to spend sometime playing around with a demo
@@ -26,18 +26,17 @@ AB testing really is only useful for established players with a large enough cus
 Such established players have already carved out their niche and stakeholders already have concrete OKR's that they need hit.
 Plus AB testing relies on experiments having a large enough sample size for each variation and a high enough conversion rate for any test to be meaningful.
 Not to mention the slight overhead it will put on your development efforts.
-The key thing here is that it is ~~optimization~~ we're looking at doing - not ~~transformation~~. 
-If you're a startup that's still pivoting every couple of months then AB testing isn't going to do much - you should first try to find your niche and when you get big enough
-only then consider running tests. 
+The key thing here is that it is **optimization** we're looking at doing - not **transformation**. 
+If you're a startup that's still pivoting every couple of months then AB testing isn't going to do much - you should first try to find your niche and when you get big enough and have decided upon revenue streams - only then consider running tests. 
 
 ## 4. Get an AB testing tool (or build one):
 If you're serious about doing testing you should spend time building one out or spending $$$ in getting a tool like Optimizely.
 I can attest that manually sifting through data - filtering outliers and calculating statistical significance is not the most fun thing to do after you've done it like 5 times.
-Getting a tool means freeing up Data peoples time to craft more precise experiments.
+Getting a tool means freeing up time to craft more precise experiments.
 
-## 5. Still understand the math behind AB Testing - even if you have a tool:
+## 5. Understand the math behind AB Testing - even if you have a tool:
 Understanding the stats behind AB testing will give you intuition behind how factors like conversion rates,sample size, number of variations and time all interplay with each other.
-As an Analyst you'll still need to provide the parameters to conducting a successful test - this means knowing how long to run it for and approximating the traffic required to get meaningful results/
+As an Analyst you'll still need to provide the parameters to conducting a successful test - this means knowing how long to run it for and approximating the traffic required to get meaningful results. That way, you know that the results being spat out aren't just due to some voodoo magic working in the background.
 My personal AB-testing handbook has been [Evan Miller's website](https://www.evanmiller.org/ab-testing/). He is extremely rigorous with his explanations and will give you the foundations for how to properly conduct test.
 
 ## 6. Be precise in your metrics definitions and ensure tracking logic is correct:
@@ -55,11 +54,19 @@ The first couple of experiments will always be a pain and take ages to setup - y
 But once everyone gets used to it, developers have implemented it in a way that's scalable and Product starts realizing the benefits to seeing 
 what effect they are having on short term metrics - you'll start getting buy in.
 
+Having a leadership team that can foster a quantative experimentation mindset and has faith in this methodology can really make the difference.
+
 ## 8. Be absolutely non-biased when discussing results.
-Sometimes people will have biases to expecting a certain variation to work out over the control. This may influence how you are discussing the results when presenting 
+Sometimes people will have biases to expect a certain variation to work out over the control. This may influence how you are discussing the results when presenting 
 back to stakeholders - particularly if it the results are not to expectation. Given that your event tracking is correct and methodology sound, you should always just
 tell it like it is. If somethings not working out or not significant a difference you need to just say that. Inconclusive or unexpected experiments that go against the hypothesis
-are will always come about - you shoudn't feel obliged to doubt the results just because it's going against people's biases. You have to be the arbiter of a harsh reality sometimes.
+are will always come about - you shouldn't feel obliged to doubt the results just because it's going against people's biases. You have to be the arbiter of a harsh reality sometimes.
+
+## Summary: AB Testing is like going to the gym
+In summary, the integration of an AB testing platform is as much of a challenge of mindset and the ways of product development, as it is a technical challenge.
+It's about helping teams understand what it can and cannot do - and adhering to the methodology of conducting experiments with a non-biased frame of mind.
+It is only through persistent effort that a culture of experimentation can be built and the benefits of experimenting will outweigh the overhead of conducting them.
+Think about the first couple of times you've been at the gym - you probably dreaded ever going back and regretted why you're paying money to inflict bodily pain upon yourself. It takes time to build up the mental patterns for working out and sustaining it to achieve your fitness goals.
 
 
 
