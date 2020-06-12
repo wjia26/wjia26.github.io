@@ -29,7 +29,9 @@ Often in opinion pieces will use a famous idiom to bolster the argument.
 - "Look before you leap."
 - "Clothes maketh the man."
 - "Many hands make light work." 
+
 These idioms have been drilled in so much that they have become staple quotes in our everyday lives. We use them to describe situations, explain them and even rely on them to move forward. The disconcerting thing is, they all have an exact opposite and equally profound quote which completely contradicts them.
+
 - "The Pen is mightier than the sword."
 - "He who hesisates loses."
 - "Never judge a book by its cover."
