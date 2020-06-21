@@ -5,7 +5,7 @@ shortname: "SpotifyAPIAnalysis"
 date:   2020-01-03 15:32:14 +1100
 categories: Spotify API Tableau
 ---
-
+<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 {% include image.html url="/assets/projects/SpotifyAPIAnalysis/displayimg.JPG" description="Tableau is actually pretty sweet for viz's" width=700 %}
 
 [Github repo](https://github.com/wjia26/SpotifyAPIAnalysis)|

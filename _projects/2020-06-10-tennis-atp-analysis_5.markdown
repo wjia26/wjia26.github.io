@@ -5,7 +5,7 @@ shortname: "TennisBestShots2"
 date:   2020-06-10 15:32:14 +1100
 categories: TennisTableau
 ---
-
+<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 
 
 [Github repo](https://github.com/wjia26/TennisAnalytics)|

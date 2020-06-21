@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">

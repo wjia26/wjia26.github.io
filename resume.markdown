@@ -3,6 +3,7 @@ layout: page
 title: Résumé
 permalink: /resume/
 ---
+<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 # William Jiang
 
 <div id="webaddress">
