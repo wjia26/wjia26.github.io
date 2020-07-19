@@ -13,15 +13,15 @@ tags: Spotify DataScience Tableau API
 {% include image.html url="/assets/projects/SpotifyAPIAnalysis/displayimg.JPG" description="Tableau is actually pretty sweet for viz's" width=700 %}
 
 
-[Github repo](https://github.com/wjia26/SpotifyAPIAnalysis)|
-[Tableau Dashboard](https://public.tableau.com/profile/william8331#!/vizhome/SpotifyMyTracks/TopTracks)
+[Github repo](https://github.com/wjia26/SpotifyAPIAnalysis){:target="_blank"}|
+[Tableau Dashboard](https://public.tableau.com/profile/william8331#!/vizhome/SpotifyMyTracks/TopTracks){:target="_blank"}
 
 ## Preface:
 I'd been seeing alot of awesome apps being built using the Spotify API so I decided to give it a go for myself. As an avid Spotify user, I was really curious to better understand my own listening behaviour - because as they say, music is a reflection of self.
 
-Fortunately, the Spotify API is super simple to use and has a pre-existing python wrapper called [spotipy](https://spotipy.readthedocs.io/) which you can easily install via pip. The wrapper handles all the boilerplate code for authentication and calling the RESTful API.
+Fortunately, the Spotify API is super simple to use and has a pre-existing python wrapper called [spotipy](https://spotipy.readthedocs.io/){:target="_blank"} which you can easily install via pip. The wrapper handles all the boilerplate code for authentication and calling the RESTful API.
 
-For this specific part of the project I simply just wanted to visualize some of my top tracks through tableau and get some data points around the features which make up these tracks. Spotify does a wonderful job of labelling each track with such features like: Valence, Tempo, Loudness, Major/Minor, Energy and etc. Check out the [docs](https://developer.spotify.com/documentation/web-api/reference/tracks/get-several-audio-features/) for more information.
+For this specific part of the project I simply just wanted to visualize some of my top tracks through tableau and get some data points around the features which make up these tracks. Spotify does a wonderful job of labelling each track with such features like: Valence, Tempo, Loudness, Major/Minor, Energy and etc. Check out the [docs](https://developer.spotify.com/documentation/web-api/reference/tracks/get-several-audio-features/){:target="_blank"} for more information.
 
 ## Method:
 1. Read docs to find what juicy information I can gather.
