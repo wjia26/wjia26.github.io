@@ -38,7 +38,7 @@ I chunk the file ingestion for every 1000 rows. You can go bigger if you'd like 
 Initially I was going to ingest files as parquet. From what I read it gives a significant performance/cost advantage over using csv's. However, I couldn't get it to output properly into the S3 bucket. So I stuck to using csv's to just be able to ship the product quicker. I'm not really pulling in THAT much data so costs shouldn't be too much of a problem - future Will's problem anyway!
 
 ## Step 2: Putting it up on AWS Lambda:
-{% include image.html url="/assets/projects/TwitterDataLakePart1/LambdainAction.JPG" description="SERVERLESS!" width=700 %}
+{% include image.html url="/assets/projects/TwitterDataLakePart1/LambdainAction.JPG" description="SERVERLESS!" width=800 %}
 
 Main Challenge here is the **DAMN DEPENDENCIES!!!**. I think the proper way to do this is to install docker, develop your stuff in that environment, then push that build up to Lambda. However, because my application was so small I thought it'd be easier just to manually plonk the dependencies into a folder and just zip it up - rather than learn docker and get frustrated - some day when I get time maybe...
 
@@ -48,13 +48,13 @@ I also hit some roadblocks with getting the Vader model to work on NLTK aswell. 
 
 After going through some hoops - I hooked it up to an EventBridge cron job which polls every 3minutes for data!
 
-{% include image.html url="/assets/projects/TwitterDataLakePart1/S3_Datalake.JPG" description="mmmmm.....data" width=700 %}
+{% include image.html url="/assets/projects/TwitterDataLakePart1/S3_Datalake.JPG" description="mmmmm.....data" width=800 %}
 
 Datalake done? WRONG!
 
 
 ## Step 3: Querying through Athena:
-{% include image.html url="/assets/projects/TwitterDataLakePart1/Querying_Twitter_Datalake_Athena.JPG" description="Let the querying begin" width=700 %}
+{% include image.html url="/assets/projects/TwitterDataLakePart1/Querying_Twitter_Datalake_Athena.JPG" description="Let the querying begin" width=800 %}
 
 Once you've got your S3 buckets flowing with data - how do you query it and get datasets? All the csv's are dispersed all over the place.
 I guess we better **Glue** them together - hahahaha, i'm so funny. Anyways I used AWS Glue to create the schema on demand using the opencsv SerDe to do the job. I'm still not exactly sure what a SerDe is - but i think it's meant to interpret the data and format it into a table from some parameters you give it. For example I told my SerDe what the escape characters are/etc. 
