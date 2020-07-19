@@ -36,7 +36,7 @@ __Application Developer Intern, [Accenture](https://www.accenture.com/au-en)__ B
 ## Education
 
 `2013-2017`
-__Bachelor of Electrical and Computer Systems Engineering, Monash University__
+__Bachelor of Electrical and Computer Systems Engineering (First Class Honours), Monash University__
 
 __Final Year Thesis__: Implemented hand-eye co-ordination in a Robotic Arm using Deep Learning. Skills attained: RoboDK, Polyscope,
 Tensorflow.
