@@ -13,6 +13,6 @@ permalink: /about/
 My name is William and this is a place where I share some stuff I work on when the inspiration hits me.
 Most of it will be data-related (considering it is my day job) - however that's not to say I won't branch out and do other things.
 
-I would write on Medium - but I feel like I can't customize it to how I want it + there's already way too many data scientists posting stuff over there - being mainstream is soooo uncool.
+I would write on Medium - but I feel like I can't customize it to how I want it + there's already way too many data scientists posting stuff over there - being mainstream is soooo uncool. May the SEO gods please guide people to my site LOL.
 
 In my spare time I enjoy reading autobiographies, playing sport, dabbling in stocks and talking nonsense. I'm also abit of a classical music elitist (and now jazz-enthusiast) - *ohh aren't I cultured*...
