@@ -24,10 +24,10 @@ permalink: /resume/
 ## Experience
 
 `July 2019 - now`
-__Product Data Analyst, [carsales.com.au](https://www.carsales.com.au)__ Involved in all stages of the Product Analytics Development cycle. From designing Objective Key Metrics with Product Team, communicating business reporting requirements with Developers and sitting in with QA team. Provide insights to Product/Leadership Team about a range of products ([MyFeed](https://www.adnews.com.au/news/carsales-adds-story-feature-to-app-for-advertisers) being a noteable feature). Facilitate AB testing of feature releases using Optimizely and Google Analytics.
+__Data Analyst, [carsales.com.au](https://www.carsales.com.au)__ Involved in all stages of the Product Analytics Development cycle. From designing Objective Key Metrics with Product Team, communicating business reporting requirements with Developers and sitting in with QA team. Provide insights to Product/Leadership Team about a range of products ([MyFeed](https://www.adnews.com.au/news/carsales-adds-story-feature-to-app-for-advertisers) being a noteable feature). Facilitate AB testing of feature releases using Optimizely and Google Analytics.
 
 `July 2018 - July 2019`
-__Analyst, [Deloitte](https://www2.deloitte.com/global/en/pages/strategy-operations/solutions/analytics-and-cognitive.html)__ · Analytics and Cognitive Business Unit. Developed ETL ingestion patterns to support an Energy Trading client. Use of Oracle ETL Stack. Developed Generic Procedures in PL/SQL for Data ingestion used across the platform. Built Financial Tableau reports to aid Trading and Risk Departments. Created R Models to calculate forward prices for commodities trading.
+__Analyst, [Deloitte](https://www2.deloitte.com/global/en/pages/strategy-operations/solutions/analytics-and-cognitive.html)__ · Analytics and Cognitive Business Unit. Developed ETL ingestion patterns, R Models and Tableau reports for an Energy Trading client. Promoted AWS upskilling within the firm by holding biweekly training hours. 
 
 `Dec. 2017 - June 2018`
 __Application Developer Intern, [Accenture](https://www.accenture.com/au-en)__ Built front-end dashboards using Splunk and Predictive Models for an in-house Application. Co-ordination with offshore to deliver products.
@@ -38,27 +38,25 @@ __Application Developer Intern, [Accenture](https://www.accenture.com/au-en)__ B
 `2013-2017`
 __Bachelor of Electrical and Computer Systems Engineering, Monash University__
 
-***GPA 3.5***  First Class Honours, Engineering Excellence Scholarship, Westpac Asian Exchange Scholarship
+__Final Year Thesis__: Implemented hand-eye co-ordination in a Robotic Arm using Deep Learning. Skills attained: RoboDK, Polyscope,
+Tensorflow.
 
 `2013-2017`
 __Bachelor of Commerce (Finance), Monash University__
 
-***GPA 3.5***  Investment Analysis and Corporate Finance
-
-`2010-2012`
-__John Monash Science School__ 99.65 / 100 ATAR
+`2016`
+__Semester Exchange (Engineering), University of Hong Kong__
 
 
 ## Projects
 
-__Final Year Project, Monash University__: Implemented hand-eye co-ordination in a Robotic Arm using Deep Learning. Skills attained: RoboDK, Polyscope,
-Tensorflow.
+
 
 __* Please see my Github and/or website for other projects__
 
 ## Technical
 
-*  **Tools**: Tableau, Tensorflow, Google Analytics, Optimizely
+*  **Tools**: Tableau, Google Analytics, Optimizely
 * **Programming Languages**: Python, MATLAB, R, SQL, VBA, Bash Scripts
 * **Cloud**: AWS Certified Solutions Architect Associate
 
