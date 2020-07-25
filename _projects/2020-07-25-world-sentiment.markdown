@@ -37,5 +37,5 @@ It's not even really a matter of race/ethinicity because although Japan/Korea/Si
 ## Dataset:
 If you're interested in the dataset, I will find sometime to upload a portion of it to Kaggle for you to use for your own analysis. It contains most of the countries in the world - so there's defintely much more to be explored. 
 
-I will update this post with the link when I get time to upload!
+**UPDATE:** Here's the [Kaggle Dataset!](https://www.kaggle.com/wjia26/twittersentimentbycountry)
 
