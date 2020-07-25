@@ -9,7 +9,8 @@ categories: TwitterDataLake
 
 
 [Tableau Dashboard V2](https://public.tableau.com/views/twitter-world-sentiment-analysis-2/WorldSentiment?:language=en-GB&:display_count=y&:origin=viz_share_link){:target="_blank"}|
-[Tableau Dashboard V1](https://public.tableau.com/views/twitter-world-sentiment-analysis/WorldSentiment?:language=en-GB&:display_count=y&:origin=viz_share_link){:target="_blank"}
+[Tableau Dashboard V1](https://public.tableau.com/views/twitter-world-sentiment-analysis/WorldSentiment?:language=en-GB&:display_count=y&:origin=viz_share_link){:target="_blank"}|
+[Kaggle Dataset](https://www.kaggle.com/wjia26/twittersentimentbycountry)
 
 
 ## Preface:
