@@ -31,7 +31,7 @@ github_username:  wjia26
 medium_username: iamwilliamj
 disqus: 
   shortname: iamwilliamj
-
+google_analytics: UA-173532707-1
 # Build settings
 theme: minima
 plugins:
