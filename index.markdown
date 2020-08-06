@@ -8,4 +8,4 @@ type: website
 ---
 <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 <meta property="og:type" content="website" />
-<meta property='og:image' content='/assets/projects/TweetVizApp/displayimg.JPG"/>
+<meta property='og:image' content="/assets/projects/TweetVizApp/displayimg.JPG"/>
