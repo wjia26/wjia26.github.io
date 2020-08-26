@@ -36,6 +36,7 @@ These idioms have been drilled in so much that they have become staple quotes in
 - "He who hesisates loses."
 - "Never judge a book by its cover."
 - "Too many cooks spoil the broth."
+- 
 Again, this is unfortunately an example of aggregated data coming into play. Someone has take there on life experiences,aggregated and distilled it into a catchy quote and people have taken this as ground truth. More examples can be found [here](https://www.quora.com/What-are-some-quotes-that-contradict-other-quotes-just-opposite-to-them)
 
 Lets take the example of (1)"Many hands make light work" vs. (2)"Too many cooks spoil the broth". 
