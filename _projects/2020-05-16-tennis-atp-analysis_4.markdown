@@ -36,12 +36,12 @@ Take a look at the 2nd tab and sort by forehand descending. From an all time per
 
 After removing previous gen players out, we can see that big man **Del Potro** gets the top spot - sorry Federer/Nadal fans... I think it's only fair to pay him a small tribute by watching some of his greatest ***hits*** - ohhhh aren't I funny...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ApiUw6YEqr8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/ApiUw6YEqr8' frameborder='0' allowfullscreen></iframe></div>
 
 ### Alright, what about on the backhand side?
 Repeat the exercise for the Backhand side. Doing that yields **Mr. Gasquet** the top spot. With Andre Agassi getting the Top Spot from an All time perspective.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RuDifmMuXm0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/RuDifmMuXm0' frameborder='0' allowfullscreen></iframe></div>
 
 ### Now what about the best Inside-Out FH?
 Gotcha covered my friend! Go to the first tab and sort by FH, Inside-out. It's **Fernando Verdasco!** Although he is closely followed up by Nadal and Federer. Who both have devastating Inside Outs.

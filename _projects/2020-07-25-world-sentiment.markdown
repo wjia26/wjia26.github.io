@@ -22,6 +22,9 @@ One of the questions I've been curious to explore is the sentiments about certai
 <iframe src="https://public.tableau.com/views/twitter-world-sentiment-analysis-2/WorldSentiment?:showVizHome=no&:embed=true"
 width="800" height="850"></iframe>
 
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://public.tableau.com/views/twitter-world-sentiment-analysis-2/WorldSentiment?:showVizHome=no&:embed=true' frameborder='0' allowfullscreen></iframe></div> -->
+
+
 ## Discussion:
 I have two versions of this analysis - each spanning different timeframes, with the second version including more countries.
 I've only embedded the 2nd version here - but feel free to checkout the 1st version as the results were slightly different.

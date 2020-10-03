@@ -5,7 +5,7 @@ date:   2020-05-01 12:32:14 +1100
 categories: Reflections
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sxYrzzy3cq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/sxYrzzy3cq8' frameborder='0' allowfullscreen></iframe></div>
 
 The video above gives a good explanation of how data can be misleading. Along with this, I'm sure most will understand other reasons to take data with a grain of salt.
 Things like "Correlation doesn't imply causation" or the difference between a model that's predictive as opposed to prescriptive. If these are not concepts you've heard about, I'd suggest doing a quick google search before reading onwards.

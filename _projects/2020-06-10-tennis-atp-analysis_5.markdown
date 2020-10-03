@@ -37,14 +37,17 @@ It probably has to do with players movement becoming so adept that they can run 
 Here we explore the different shot distributions of players in the dataset. The grey line for each bar indicates the average for all players in the tour, so a bar thats above the average would indicate a higher tendency than the average player to hit a particular shot. Let's go through a couple of examples.
 
 First one I'd like to point out is **Jack Sock** - go ahead and filter "Player Making Shot=Jack Sock". Look at that guys Inside out Forehand Percentage. It's a staggering 40%. That means if Jack Sock hit's an unreturnable shot - it's 40% likely it going to be an Inside-Out forehand. That's insane. It also turns out that hitting Backhand winners are like brussel sprouts for Jack. I think he's more of a Meat (Forehand) and Potatoes (Serve) sort of guy. He hits almost double the amount of IO FH than the average player on the ATP tour. What's dangerous about this style of play is that it gets predictable and players can start targetting areas of your game which have gaping holes in them.  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pj77mJJ5sUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/pj77mJJ5sUM' frameborder='0' allowfullscreen></iframe></div>
+
 I love this comment I found on this youtube video. Definitely epitomizes his affinity for the Forehand.
 {% include image.html url="\assets\projects\TennisBestShots2\JackSockYTComment.JPG" description="So True..." width=350 %}
 
 Another one is **Nishikori**. I think in our previous analysis, we saw Nishikori having one of the **best backhands of all time**. And looking at his shot distribution it's no wonder the uniqlo ambassador loves to finishing shots from that side. He consistentally finishes higher than average on all BH shots. However, unlike Jack on the forehand he hasn't sacrificed his other half of the game nearly as much. I do think however, it is harder to neglect the forehand than it is the backhand. 
 
 With Nishikori there's just something about the way he hit's through the shot that makes it seem to solid and brutally quick. He also deals with the high ball quite well given he's not the tallest of players and also able have people on a string by pull them in all sorts of directions.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cnsbUTLMr08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/cnsbUTLMr08' frameborder='0' allowfullscreen></iframe></div>
 
 ### Finishing Shot Dist. Table (3rd Tab):
 Have a play around to see if any of your favourite players favour a particular shot!

@@ -41,10 +41,10 @@ Data for these graphs are aggregated from all players in this dataset. There sho
 You can see that Rally Aggression and Winners have trended downwards. This could be attributed to the increased levels of defense, the slowing of modern day courts and changing technology of tennis gear. This has shifted players to become power baseliners with solid defense in favour of the ye olde traditional aggressive mindset of finishing points off at net. Watching the difference in game play between 2000 and 2008 and you can see how much tennis has changed. 
 
 #### 2000 Wimbledon Final - Pete Sampras d. Pat Rafter
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rA2RoFiY9_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/rA2RoFiY9_A' frameborder='0' allowfullscreen></iframe></div>
 
 #### 2008 Australian Open Final - Novak Djokovic d. Jo-Wilfried Tsonga
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N9RJ0I9Ivhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/N9RJ0I9Ivhs' frameborder='0' allowfullscreen></iframe></div>
 
 Another trend you might be able to spot is the run up in Unreturnable serves from 1988 to 1995. Pete Sampras definitely would have had something to do with this - but more broadly people started to serve way faster with more lighter head heavy rackets. Courts were also still really fast back in the day.
 
@@ -73,31 +73,7 @@ The guy has a 10.7% increased aggressiveness when he's down. His win-rate is 1.2
 No wonder Federer has nightmare's about going 40-15 Match point against him.
 
 #### 2011 US Open Semifinal - Novak Djokovic d. Roger Federer
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BpO4s99UVCE?start=5097" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/BpO4s99UVCE?start=5097' frameborder='0' allowfullscreen></iframe></div>
 
 I cry everytime I watch this one... along with 2010 US Open and 2019 Wimbledon.
-
-<!-- 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/ -->

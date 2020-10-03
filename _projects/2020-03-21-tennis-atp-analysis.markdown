@@ -48,12 +48,11 @@ Looking at where the players are located on this graph it starts to make a bit m
 Roger Federer is classified as an aggressor - with neighbours including Marin Cilic and Tsonga. All of which I enjoy to watch. 
 
 Some extreme cases include players like Dustin Brown and Benoit Paire. Who are both confirmed nut-cases. Just take a look at some of their highlights.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ewdkNxC4XV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xu9q_jGiwk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/ewdkNxC4XV8' frameborder='0' allowfullscreen></iframe></div>
 
 Dustin is more consistentally aggressive whereas Benoit sort of suddenly comes out of nowhere and bangs a winner.
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/xu9q_jGiwk8' frameborder='0' allowfullscreen></iframe></div>
 
 ### On the Boring end of things:
 Djokovic, Murray and Nadal are fairly close together - grouped as Defenders. Typical as they don't really take too many risks and play it safe. This is sort of the reason why I like Federer so much. To have that amount of success playing entertaining and aggressive tennis. 
@@ -74,29 +73,3 @@ Medvedev/Coria/Hewitt/Ferrer all belong here. There main strength is putting the
 If you use the Year Bracket filter to see the spread throughout time. You can see that there were more stark differences in how people played back in the day as opposed to now. 
 
 Nowadays players are becoming more the same (except for a hand few) so there's less of a dichotomy.
-
-
-<!-- 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/ -->
