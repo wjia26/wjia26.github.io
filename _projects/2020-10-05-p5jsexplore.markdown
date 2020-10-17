@@ -18,6 +18,6 @@ Here's my first crack at some generative art. I've tried to play around with ran
 As for tutorials, I've mainly just been reading the docs and trying stuff. Although [TheCodingTrain](https://www.youtube.com/c/TheCodingTrain/videos) on youtube has some great content and covers most concepts from beginner to advanced.
 
 ## Click Me!
-<div id="sketch-holder"></div>
+<div id="sketch-holder" class="flex-container"></div>
 <script src="https://cdn.jsdelivr.net/npm/p5@1.1.9/lib/p5.js"></script>
 <script src="/assets/projects/p5jsexplore/sketch.js"></script>
