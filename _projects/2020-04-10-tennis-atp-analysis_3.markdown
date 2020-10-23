@@ -39,6 +39,10 @@ According to this quora [post](https://www.quora.com/Why-did-tennis-discontinue-
 
 I guess at the end of the day - Tennis is also in the entertainment industry, with margins to be kept. But it's crazy how profits can influence the rules which influences how regular people like you and me play the sport aswell. 
 
+*EDIT: So I [posted](https://www.reddit.com/r/tennis/comments/jfmthk/atp_tennis_court_surfaces_from_19682020/) this viz on reddit r/tennis and the responses were really insightful! Apparently Nadal and Federer had something to do with the death of carpet - they supposedly put pressure on tournament organizers to get rid of the surface - stating that it was due to health hazards.*
+
+<a class="embedly-card" href="https://www.reddit.com/r/tennis/comments/jfmthk/atp_tennis_court_surfaces_from_19682020/g9mvicv">Card</a>
+<script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
 
 ### Part II(Second tab in Viz): Debunking the Lefty Advantage Myth + Damn Tall People...
 Interesting to see that the **Lefties (not political spectrum) had a winning advantage pre-1985**. Could be because that the lefty players were just inherently better - or people just didn't know how to play against them. However this advantage was effectively neutralized post-1985. According to this [article](https://www.washingtonpost.com/sports/tennis/being-a-left-handed-tennis-player-isnt-the-advantage-it-once-was/2016/05/31/fad2abd2-2740-11e6-a3c4-0724e8e24f3f_story.html), it was because of the advances in racket technology that levelled out the playing field, effectively nullifying any southpaw advantages. In fact, it seems that they actually have a lower winning ratio as compared to Right-handers.
