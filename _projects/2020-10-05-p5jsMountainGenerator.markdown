@@ -9,7 +9,7 @@ categories: p5js
 
 Link to the App: [Generative Mountains](https://www.iamwilliamj.com/MountainPerlinCreator/){:target="_blank"}
 
-[![](/assets/projects/p5jsMutedMountains/displayimg.JPG)](/assets/projects/p5jsMutedMountains/displayimg.JPG){:target="_blank"}
+[![](/assets/projects/p5jsMutedMountains/displayimg.JPG)](https://www.iamwilliamj.com/MountainPerlinCreator/){:target="_blank"}
 
 ## Let's build a Background Generator
 
