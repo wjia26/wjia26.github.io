@@ -24,4 +24,4 @@ I've posted these datasets on Kaggle so that anyone can use it to analyze or bui
 [Twitter Sentiment by Country](https://www.kaggle.com/wjia26/twittersentimentbycountry){:target="_blank"}\
 [Australian Cities Tweet Sentiment](https://www.kaggle.com/wjia26/australian-cities-tweets){:target="_blank"}\
 [Big Tech Companies Tweet Sentiment](https://www.kaggle.com/wjia26/big-tech-companies-tweet-sentiment){:target="_blank"}\
-[EPL Teams Tweet Sentiment](https://www.kaggle.com/wjia26/epl-teams-twitter-sentiment-dataset){:target="_blank"}\
+[EPL Teams Tweet Sentiment](https://www.kaggle.com/wjia26/epl-teams-twitter-sentiment-dataset){:target="_blank"}
