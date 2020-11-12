@@ -16,6 +16,8 @@ permalink: /resume/
 <i class="fa fa-github"></i> <a href="https://www.linkedin.com/in/iamwilliamj/" target="_blank">Linkedin</a>
 |
 <i class="fa fa-github"></i> <a href="https://iamwilliamj.com" target="_blank">Website</a>
+|
+<i class="fa fa-github"></i> <a href="https://www.kaggle.com/wjia26" target="_blank">Kaggle</a>
 <!-- |
 <i class="fa fa-github"></i> <a href="/assets/CV.pdf" target="_blank">Download as PDF</a> -->
 </div>
