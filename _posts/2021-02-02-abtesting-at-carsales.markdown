@@ -7,6 +7,6 @@ categories: Data
 
 I while ago I wrote about AB Testing! It got published in the carsales-dev Medium Channel.
 
-[Check it out!](https://medium.com/carsales-dev/experimentation-at-carsales-d3cca3e7dabe)
+[Check it out!](https://medium.com/carsales-dev/experimentation-at-carsales-d3cca3e7dabe){:target="_blank"}
 
 

@@ -18,14 +18,14 @@ Now, I'm quite particular about who I like to watch and which tennis players I t
 
 I wanted a way to quantify this aggressiveness that I like so much and perhaps see visually why I enjoy certain types of players - which meant I needed access to a sample of points played from each player throughout time.
 
-I stumbled across this awesome project called the [MatchChartingProject](https://github.com/JeffSackmann/tennis_MatchChartingProject) a couple months back.
+I stumbled across this awesome project called the [MatchChartingProject](https://github.com/JeffSackmann/tennis_MatchChartingProject){:target="_blank"} a couple months back.
 It contains a subset of matches played from 1970-2020 - providing data at the point-by-point level. 
 
 Let's put it to good use.
 
 ## Method:
-1. Pull data from [github repo](https://github.com/JeffSackmann/tennis_MatchChartingProject).
-2. Write Logic and aggregate in [Python](https://github.com/wjia26/TennisAnalytics). In the github you can see I had to transform the data and clean it a bit to get it fit for purpose.
+1. Pull data from [github repo](https://github.com/JeffSackmann/tennis_MatchChartingProject){:target="_blank"}.
+2. Write Logic and aggregate in [Python](https://github.com/wjia26/TennisAnalytics){:target="_blank"}. In the github you can see I had to transform the data and clean it a bit to get it fit for purpose.
 3. Visualize through Tableau.
 
 ## The Final Product:
