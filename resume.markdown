@@ -25,7 +25,10 @@ permalink: /resume/
 
 ## Experience
 
-`July 2019 - now`
+`Feb 2021 - now`
+__Data Analyst, [Canva](https://www.canva.com/en_gb/)__ Bringin' the insights for a cool company who's mission is "Design Anything. Publish Anywhere"!
+
+`July 2019 - Jan 2021`
 __Senior Data Analyst, [carsales.com.au](https://www.carsales.com.au)__ Involved in all stages of the Product Analytics Development cycle. From designing Objective Key Metrics with Product Team, communicating business reporting requirements with Developers and sitting in with QA team. Provide insights to Product/Leadership Team about a range of products ([MyFeed](https://www.adnews.com.au/news/carsales-adds-story-feature-to-app-for-advertisers) being a noteable feature). Facilitate AB testing of feature releases using Optimizely and Google Analytics.
 
 `July 2018 - July 2019`
